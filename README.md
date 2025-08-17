@@ -58,3 +58,5 @@ Line charts: GDP correlation with sales.
 ✅ Conclusion
 
 This analysis highlights that recessions had a drastic impact on automotive sales, with consumers shifting preference toward budget cars. Macroeconomic factors like GDP and consumer confidence played a key role in influencing sales, while advertising took a backseat during downturns.
+
+Note: One of the DashBoard Code have A Glitch 
